@@ -3,7 +3,11 @@
   <a href="https://github.com/carol-alonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-alonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-alonso&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="CSS3" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="GIT" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
