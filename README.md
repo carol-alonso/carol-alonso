@@ -28,10 +28,16 @@
   <a href="https://www.linkedin.com/in/lacerdacarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/wtfkatys/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
    <a href="https://open.spotify.com/user/22lefs664gemqxndyxy5rd6ry?si=3f6a05198caa4f25" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  
+  ##
  
   ![Snake animation](https://github.com/carol-alonso/carol-alonso/blob/output/github-contribution-grid-snake.svg)
   
+  ##
+  
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
+  
+  ##
   
   [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22lefs664gemqxndyxy5rd6ry?si=e4de6a5b94734d04)
   
