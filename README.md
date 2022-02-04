@@ -37,11 +37,6 @@
   
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
   
-  ##
-  
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22lefs664gemqxndyxy5rd6ry?si=e4de6a5b94734d04)
-  
-  
  
  
 </div>
