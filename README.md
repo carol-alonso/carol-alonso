@@ -30,6 +30,7 @@
    <a href="https://open.spotify.com/user/22lefs664gemqxndyxy5rd6ry?si=3f6a05198caa4f25" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
   ##
+  
  
   ![Snake animation](https://github.com/carol-alonso/carol-alonso/blob/output/github-contribution-grid-snake.svg)
   
