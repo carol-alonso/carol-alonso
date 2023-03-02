@@ -1,4 +1,4 @@
-## Bem-vinde! Sou a Carol, desenvolvedora Java Junior.
+## Bem-vindos! Sou a Carol, Analista de Desenvolvimento.
 <div align="center">
   <a href="https://github.com/carol-alonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-alonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
